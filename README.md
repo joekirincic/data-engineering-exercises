@@ -1,4 +1,4 @@
-# data-engineer-audition
+# data-engineering-exercises
 
 This repository is an exercise in using PySpark to process and analyze data. We have a minimal Docker Compose stack consisting of a single container that runs a Python script `main.py`.
 
